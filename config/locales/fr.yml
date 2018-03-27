@@ -1506,6 +1506,8 @@ fr:
       match_any:
     taxonomies: Arborescences
     taxonomy: Taxonomy
+    taxonomy_brands_name: Marques
+    taxonomy_categories_name: Catégories
     taxonomy_edit: Modifier l'aborescence
     taxonomy_tree_error: La modification demandée n'a pas été acceptée et l'arbre a été retourné à son état antérieur, s'il vous plaît essayez de nouveau.
     taxonomy_tree_instruction: Cliquer dans l'arbre avec le bouton droit pour accéder au menu pour ajouter, supprimer et trier une feuille.
